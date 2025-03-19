@@ -34,7 +34,7 @@ export function Navbar() {
     { name: "Shop", href: "/shop" },
     { name: "Categories", href: "/categories" },
     { name: "Prescriptions", href: "/prescriptions" },
-    { name: "Contact", href: "/contact" },
+    { name: "Dashboard", href: "/dashboard" },
   ]
 
   useEffect(() => {

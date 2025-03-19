@@ -1,5 +1,5 @@
 import type React from "react"
-import { Navbar } from "@/components/navbar"
+import { Navbar } from "@/components/shared/navbar"
 import { Footer } from "@/components/footer"
 import { ThemeProvider } from "@/components/theme-provider"
 import { Toaster } from "@/components/ui/toaster"
